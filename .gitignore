@@ -1,0 +1,5 @@
+# Ignore the build directories made by setup
+*.pyc
+build/
+dist/
+mpiutil.egg-info/
